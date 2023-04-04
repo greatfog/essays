@@ -2,15 +2,17 @@
 
 This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
 
+.ve-media gh:greatfog/media/Images/Milwaukee_City_Hall_2022-11-25.jpg rotation=90 
 ==Milwaukee City Hall=={Q2920565} 
 
-.ve-media gh:greatfog/media/Images/Milwaukee_City_Hall_2022-11-25.jpg rotation=90
+.ve-media gh:greatfog/media/Images/UWM_Campus_View.jpg right
 
-==Milwaukee City Hall=={Q2920565} 
+Click on the text below to trigger an image `zoom to` action.
+- ==Libraries roof?=={2580,126,2651,1821}
+- ==house?=={3510,213,1326,911}
+- ==Full image view=={pct:0,0,100,100}
 
-.ve-media gh:greatfog/media/Images/UWM_Campus_View.jpg
 .ve-media wc:Milwaukee_November_2022_25_(Milwaukee_City_Hall_from_Milwaukee_Skywalk).jpg rotation=90
-
 
               
 ## Aulacophora indica
@@ -22,6 +24,7 @@ The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; sub
 This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
 
 Image controls are located in the top-left corner of the image and can be seen when hovering over the image.  These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
+.ve-media gh:greatfog/media/Images/UWM_Campus_View.jpg
 
 Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes the image title, description, attribution statement, and reuse rights.
 
