@@ -6,7 +6,6 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 ==Milwaukee City Hall=={Q2920565} 
 
 .ve-media gh:greatfog/media/Images/UWM_Campus_View.jpg left
-
 Click on the text below to trigger an image `zoom to` action.
 - ==Libraries roof?=={2580,126,2651,1821}
 - ==house?=={3510,213,1326,911}
