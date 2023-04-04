@@ -5,7 +5,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 .ve-media gh:greatfog/media/Images/Milwaukee_City_Hall_2022-11-25.jpg rotation=90 
 ==Milwaukee City Hall=={Q2920565} 
 
-.ve-media gh:greatfog/media/Images/UWM_Campus_View.jpg right
+.ve-media gh:greatfog/media/Images/UWM_Campus_View.jpg left
 
 Click on the text below to trigger an image `zoom to` action.
 - ==Libraries roof?=={2580,126,2651,1821}
