@@ -1,8 +1,18 @@
 # Hello, Juncture
 
 This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
+
+==Milwaukee City Hall=={Q2920565} 
+
 .ve-media gh:greatfog/media/Images/Milwaukee_City_Hall_2022-11-25.jpg rotation=90
 
+==Milwaukee City Hall=={Q2920565} 
+
+.ve-media gh:greatfog/media/Images/UWM_Campus_View.jpg
+.ve-media wc:Milwaukee_November_2022_25_(Milwaukee_City_Hall_from_Milwaukee_Skywalk).jpg rotation=90
+
+
+              
 ## Aulacophora indica
 
 .ve-media wc:The_Bug_Peek.jpg right
