@@ -1,6 +1,7 @@
 # Hello, Juncture
 
 This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
+.ve-media gh:greatfog/media/Images/Milwaukee_City_Hall_2022-11-25.jpg rotation=90
 
 ## Aulacophora indica
 
