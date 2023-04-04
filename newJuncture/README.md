@@ -5,11 +5,14 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 .ve-media gh:greatfog/media/Images/Milwaukee_City_Hall_2022-11-25.jpg rotation=90 
 ==Milwaukee City Hall=={Q2920565} 
 
-.ve-media gh:greatfog/media/Images/UWM_Campus_View.jpg left
-##### Click on the text below to trigger an image `zoom to` action.
-    - ==Libraries roof?=={2580,126,2651,1821}
-    - ==House?=={3510,213,1326,911}
-    - ==Full image view=={pct:0,0,100,100} 
+.ve-media gh:greatfog/media/Images/UWM_Campus_View.jpg 
+
+.ve-media wc:The_Bug_Peek.jpg right
+
+Click on the text below to trigger an image `zoom to` action.
+- ==A close-up of the bug=={1131,639,1358,904}
+- ==Some kind of fungus on the leaf?=={1229,2533,928,618}
+- ==Full image view=={pct:0,0,100,100}
 
 .ve-media wc:Milwaukee_November_2022_25_(Milwaukee_City_Hall_from_Milwaukee_Skywalk).jpg rotation=90
 
