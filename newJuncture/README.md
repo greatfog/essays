@@ -1,6 +1,10 @@
-# Hello, Juncture
+# Chinese Treasure in UWM Libraries 
 
 This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
+
+## Golda Meir Library in 1974
+Golda Meir Library are the heart of UWM, providing critical resources and services to our 24,000 students and over 1,500 faculty and instructional staff. We have Archive,  American Geographical Society Library, Special Collections, Curriculum Collection that host lots of physical collections. The Digital Collections include over 190,000 photographic images, maps, and books drawn from these collections.   
+.ve-media https://collections.lib.uwm.edu/iiif/info/uwmphoto/310/manifest.json 
 
 .ve-media gh:greatfog/media/Images/Milwaukee_City_Hall_2022-11-25.jpg rotation=90 
 ==Milwaukee City Hall=={Q2920565} 
