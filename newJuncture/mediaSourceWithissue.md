@@ -5,3 +5,7 @@
 
 ## Archivelab (blank window)
 .ve-media https://iiif.archive.org/iiif/gardencitiesofto00howa/manifest.json 
+
+## Wikimedia Commons image - July 1st 2024
+.ve-media wc:Mero_(Epinephelus_marginatus),_Madeira,_Portugal,_2019-05-31,_DD_24.jpg left caption="picture of the day"
+.ve-media wc:Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg right
