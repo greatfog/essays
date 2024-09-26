@@ -1,4 +1,4 @@
-# Mediasourcewithissue.md
+# MediasourcewithIssue.md
 
 ## CMU digital collection (change http to https)
 .ve-media https://iiif.library.cmu.edu/manifest/Diplodocus_box00002_fld00584_bdl0001_doc0001/manifest.json
