@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "test",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/491877062",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:471.0916748046875,840.1694946289062,1150.2156982421875,474.28668212890625"
+      },
+      "id": "05bc468d"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "12b12119"
+  }
+]
