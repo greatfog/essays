@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "164d238f"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "roof",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://cdm17272.contentdm.oclc.org/iiif/2/uwmphoto:310",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1678.3402099609375,294.89013671875,677.0128173828125,231.29266357421875"
+      },
+      "id": "08f0f7c0"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fb6275ec"
   }
 ]
