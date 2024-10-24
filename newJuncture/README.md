@@ -1,6 +1,5 @@
 
 # Chinese Treasure in UWM Libraries 
-.ve-media https://iiif.harvardartmuseums.org/manifests/object/371385
 
 .ve-media https://collections.lib.uwm.edu/iiif/info/uwmphoto/310/manifest.json height=300px right
 Golda Meir Library are the heart of UWM, providing critical resources and services to our 24,000 students and over 1,500 faculty and instructional staff. We have Archive,  American Geographical Society Library, Special Collections, Curriculum Collection that host lots of physical collections. The Digital Collections include over 190,000 photographic images, maps, and books drawn from these collections.   
