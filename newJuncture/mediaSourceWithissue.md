@@ -14,8 +14,8 @@
 .ve-media jstor:community.18615405
 
 ## MET
-.ve-media met:435809 right
-
+.ve-media met:60925 right
+.ve-media  https://libmma.contentdm.oclc.org/iiif/info/p15324coll12/3842/manifest.json
 ## wikidata 
 .ve-media wd:Q2 right
 
